@@ -35,10 +35,10 @@ SELECT
     c.total_ch11,
     c.total_ch13,
     c.biz_ch11,
-    ROUND(c.total_ch7  * 100.0 / c.total_all, 1) AS ch7_pct,
-    ROUND(c.total_ch13 * 100.0 / c.total_all, 1) AS ch13_pct,
-    ROUND(c.biz_ch11   * 100.0 / c.total_all, 1) AS biz_ch11_pct,
-    ROUND((c.total_all - p.total_all) * 100.0 / p.total_all, 1) AS yoy_pct
+    ROUND(c.total_ch7  / c.total_all, 4) AS ch7_pct,
+    ROUND(c.total_ch13 / c.total_all, 4) AS ch13_pct,
+    ROUND(c.biz_ch11   / c.total_all, 4) AS biz_ch11_pct,
+    ROUND((c.total_all - p.total_all) / p.total_all, 4) AS yoy_pct
 FROM cur c
 LEFT JOIN prior p ON c.state = p.state
 WHERE c.state NOT IN ('GU', 'PR', 'VI', 'NMI')

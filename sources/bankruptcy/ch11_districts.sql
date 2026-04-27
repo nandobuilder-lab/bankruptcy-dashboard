@@ -4,7 +4,7 @@ SELECT
     biz_ch11,
     total_ch11,
     total_all,
-    ROUND(biz_ch11 * 100.0 / NULLIF(total_all, 0), 1) AS biz_ch11_pct
+    ROUND(biz_ch11 / NULLIF(total_all, 0), 4) AS biz_ch11_pct
 FROM f2_filings
 WHERE period_months = 12
   AND row_type = 'district'

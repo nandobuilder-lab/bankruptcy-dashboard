@@ -12,8 +12,8 @@ SELECT
     a.total_ch11,
     a.total_ch13,
     a.biz_ch11,
-    ROUND((a.total_all - b.total_all) * 100.0 / b.total_all, 1) AS yoy_pct,
-    ROUND((a.total_ch11 - b.total_ch11) * 100.0 / b.total_ch11, 1) AS ch11_yoy_pct
+    ROUND((a.total_all - b.total_all) / b.total_all, 3) AS yoy_pct,
+    ROUND((a.total_ch11 - b.total_ch11) / b.total_ch11, 3) AS ch11_yoy_pct
 FROM annual a
 JOIN annual b ON b.period_end = a.period_end - INTERVAL '1 year'
 ORDER BY a.period_end DESC

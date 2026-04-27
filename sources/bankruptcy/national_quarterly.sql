@@ -13,11 +13,11 @@ WITH q AS (
 SELECT
     a.period_end,
     a.total_all,
-    ROUND((a.total_all  - a.prev_all)  * 100.0 / a.prev_all,  1) AS qoq_pct,
-    ROUND((a.total_all  - b.total_all) * 100.0 / b.total_all, 1) AS sqpy_pct,
+    ROUND((a.total_all  - a.prev_all)  / a.prev_all,  4) AS qoq_pct,
+    ROUND((a.total_all  - b.total_all) / b.total_all, 4) AS sqpy_pct,
     a.total_ch11,
-    ROUND((a.total_ch11 - a.prev_ch11)  * 100.0 / a.prev_ch11,  1) AS ch11_qoq_pct,
-    ROUND((a.total_ch11 - b.total_ch11) * 100.0 / b.total_ch11, 1) AS ch11_sqpy_pct
+    ROUND((a.total_ch11 - a.prev_ch11)  / a.prev_ch11,  4) AS ch11_qoq_pct,
+    ROUND((a.total_ch11 - b.total_ch11) / b.total_ch11, 4) AS ch11_sqpy_pct
 FROM q a
 LEFT JOIN q b ON b.qm = a.qm AND b.period_end = a.period_end - INTERVAL '1 year'
 WHERE a.period_end >= '2022-06-30'
