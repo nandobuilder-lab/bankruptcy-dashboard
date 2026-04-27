@@ -11,3 +11,5 @@ node_modules
 .vscode/settings.json
 .env
 .evidence/meta
+# Raw XLSX downloads — too large for git, only the DuckDB is committed
+pipeline/raw/

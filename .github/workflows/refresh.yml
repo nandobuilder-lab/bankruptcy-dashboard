@@ -1,0 +1,55 @@
+name: Refresh bankruptcy data
+
+on:
+  schedule:
+    # 15th of March, June, September, December at 06:00 UTC
+    # US Courts publishes quarterly stats ~2 weeks after quarter-end
+    - cron: "0 6 15 3,6,9,12 *"
+  workflow_dispatch:  # allow manual trigger from GitHub UI
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # needed to push updated DuckDB back to the repo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: evidence-app/pipeline/requirements.txt
+
+      - name: Install pipeline dependencies
+        run: pip install -r evidence-app/pipeline/requirements.txt
+
+      - name: Download new XLSX releases
+        working-directory: evidence-app/pipeline/src
+        run: python scraper.py
+
+      - name: Load new releases into DuckDB
+        working-directory: evidence-app/pipeline/src
+        run: python etl.py
+
+      - name: Update FRED macro series
+        working-directory: evidence-app/pipeline/src
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+        run: python fred.py
+
+      - name: Commit updated database
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add evidence-app/sources/bankruptcy/bankruptcy.duckdb \
+                  evidence-app/pipeline/manifest.json
+          git diff --cached --quiet || git commit -m "chore: quarterly data refresh $(date -u +%Y-%m-%d)"
+
+      - name: Push changes
+        run: git push

@@ -1,0 +1,1546 @@
+{
+  "releases": {
+    "2024_Q1": {
+      "release_id": "2024_Q1",
+      "year": 2024,
+      "quarter": "Q1",
+      "month": "march",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/march-2024-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0331.2024.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_0331.2024.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2024/Q1/bf_f_0331.2024.xlsx"
+        },
+        {
+          "filename": "bf_f2_0331.2024.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2_0331.2024.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2024/Q1/bf_f2_0331.2024.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0331.2024.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.1_0331.2024.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2024/Q1/bf_f2.1_0331.2024.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0331.2024.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f5a_0331.2024.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2024/Q1/bf_f5a_0331.2024.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0331.2024.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.3_0331.2024.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2024/Q1/bf_f2.3_0331.2024.xlsx"
+        }
+      ]
+    },
+    "2024_Q2": {
+      "release_id": "2024_Q2",
+      "year": 2024,
+      "quarter": "Q2",
+      "month": "june",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/june-2024-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0630.2024.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_0630.2024.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2024/Q2/bf_f_0630.2024.xlsx"
+        },
+        {
+          "filename": "bf_f2_0630.2024.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2_0630.2024.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2024/Q2/bf_f2_0630.2024.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0630.2024.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.1_0630.2024.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2024/Q2/bf_f2.1_0630.2024.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0630.2024.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.3_0630.2024.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2024/Q2/bf_f2.3_0630.2024.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0630.2024.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f5a_0630.2024.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2024/Q2/bf_f5a_0630.2024.xlsx"
+        }
+      ]
+    },
+    "2024_Q3": {
+      "release_id": "2024_Q3",
+      "year": 2024,
+      "quarter": "Q3",
+      "month": "september",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/september-2024-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0930.2024.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_0930.2024.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2024/Q3/bf_f_0930.2024.xlsx"
+        },
+        {
+          "filename": "bf_f2_0930.2024.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2_0930.2024.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2024/Q3/bf_f2_0930.2024.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0930.2024.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.1_0930.2024.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2024/Q3/bf_f2.1_0930.2024.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0930.2024.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.3_0930.2024.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2024/Q3/bf_f2.3_0930.2024.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0930.2024.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f5a_0930.2024.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2024/Q3/bf_f5a_0930.2024.xlsx"
+        }
+      ]
+    },
+    "2024_Q4": {
+      "release_id": "2024_Q4",
+      "year": 2024,
+      "quarter": "Q4",
+      "month": "december",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/december-2024-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_1231.2024.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/2025-01/bf_f_1231.2024.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2024/Q4/bf_f_1231.2024.xlsx"
+        },
+        {
+          "filename": "bf_f2_1231.2024.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/2025-01/bf_f2_1231.2024.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2024/Q4/bf_f2_1231.2024.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_1231.2024.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/2025-01/bf_f2.1_1231.2024.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2024/Q4/bf_f2.1_1231.2024.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_1231.2024.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/2025-01/bf_f2.3_1231.2024.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2024/Q4/bf_f2.3_1231.2024.xlsx"
+        },
+        {
+          "filename": "bf_f5a_1231.2024.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/2025-01/bf_f5a_1231.2024.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2024/Q4/bf_f5a_1231.2024.xlsx"
+        }
+      ]
+    },
+    "2015_Q2": {
+      "release_id": "2015_Q2",
+      "year": 2015,
+      "quarter": "Q2",
+      "month": "june",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/june-2015-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "0615_f21_0.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/0615_f21_0.xlsx",
+          "label": "0615_f21_0.xlsx",
+          "local_path": "raw/2015/Q2/0615_f21_0.xlsx"
+        }
+      ]
+    },
+    "2015_Q3": {
+      "release_id": "2015_Q3",
+      "year": 2015,
+      "quarter": "Q3",
+      "month": "september",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/september-2015-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "0915_f_0.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/0915_f_0.xlsx",
+          "label": "0915_f_0.xlsx",
+          "local_path": "raw/2015/Q3/0915_f_0.xlsx"
+        }
+      ]
+    },
+    "2015_Q4": {
+      "release_id": "2015_Q4",
+      "year": 2015,
+      "quarter": "Q4",
+      "month": "december",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/december-2015-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "table_f-2_monthly_dec_2015_0.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/table_f-2_monthly_dec_2015_0.xlsx",
+          "label": "table_f-2_monthly_dec_2015_0.xlsx",
+          "local_path": "raw/2015/Q4/table_f-2_monthly_dec_2015_0.xlsx"
+        }
+      ]
+    },
+    "2016_Q3": {
+      "release_id": "2016_Q3",
+      "year": 2016,
+      "quarter": "Q3",
+      "month": "september",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/september-2016-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0930.2016.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_0930.2016.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2016/Q3/bf_f_0930.2016.xlsx"
+        },
+        {
+          "filename": "bf_f2_0930.2016.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2_0930.2016.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2016/Q3/bf_f2_0930.2016.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0930.2016.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.1_0930.2016.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2016/Q3/bf_f2.1_0930.2016.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0930.2016.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.3_0930.2016.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2016/Q3/bf_f2.3_0930.2016.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0930.2016.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f5a_0930.2016.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2016/Q3/bf_f5a_0930.2016.xlsx"
+        }
+      ]
+    },
+    "2016_Q4": {
+      "release_id": "2016_Q4",
+      "year": 2016,
+      "quarter": "Q4",
+      "month": "december",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/december-2016-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_1231.2016.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_1231.2016.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2016/Q4/bf_f_1231.2016.xlsx"
+        },
+        {
+          "filename": "bf_f2_1231.2016.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2_1231.2016.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2016/Q4/bf_f2_1231.2016.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_1231.2016.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.1_1231.2016.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2016/Q4/bf_f2.1_1231.2016.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_1231.2016.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.3_1231.2016.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2016/Q4/bf_f2.3_1231.2016.xlsx"
+        },
+        {
+          "filename": "bf_f5a_1231.2016.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f5a_1231.2016.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2016/Q4/bf_f5a_1231.2016.xlsx"
+        }
+      ]
+    },
+    "2017_Q1": {
+      "release_id": "2017_Q1",
+      "year": 2017,
+      "quarter": "Q1",
+      "month": "march",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/march-2017-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0331.2017.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_0331.2017.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2017/Q1/bf_f_0331.2017.xlsx"
+        },
+        {
+          "filename": "bf_f2_0331.2017.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2_0331.2017.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2017/Q1/bf_f2_0331.2017.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0331.2017.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.1_0331.2017.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2017/Q1/bf_f2.1_0331.2017.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0331.2017.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.3_0331.2017.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2017/Q1/bf_f2.3_0331.2017.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0331.2017.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f5a_0331.2017.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2017/Q1/bf_f5a_0331.2017.xlsx"
+        }
+      ]
+    },
+    "2017_Q2": {
+      "release_id": "2017_Q2",
+      "year": 2017,
+      "quarter": "Q2",
+      "month": "june",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/june-2017-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0630.2017.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_0630.2017.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2017/Q2/bf_f_0630.2017.xlsx"
+        },
+        {
+          "filename": "bf_f2_0630.2017.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2_0630.2017.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2017/Q2/bf_f2_0630.2017.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0630.2017.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.1_0630.2017.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2017/Q2/bf_f2.1_0630.2017.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0630.2017.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.3_0630.2017.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2017/Q2/bf_f2.3_0630.2017.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0630.2017.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f5a_0630.2017.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2017/Q2/bf_f5a_0630.2017.xlsx"
+        }
+      ]
+    },
+    "2017_Q3": {
+      "release_id": "2017_Q3",
+      "year": 2017,
+      "quarter": "Q3",
+      "month": "september",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/september-2017-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0930.2017.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_0930.2017.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2017/Q3/bf_f_0930.2017.xlsx"
+        },
+        {
+          "filename": "bf_f2_0930.2017.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2_0930.2017.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2017/Q3/bf_f2_0930.2017.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0930.2017.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.1_0930.2017.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2017/Q3/bf_f2.1_0930.2017.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0930.2017.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.3_0930.2017.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2017/Q3/bf_f2.3_0930.2017.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0930.2017.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f5a_0930.2017.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2017/Q3/bf_f5a_0930.2017.xlsx"
+        }
+      ]
+    },
+    "2017_Q4": {
+      "release_id": "2017_Q4",
+      "year": 2017,
+      "quarter": "Q4",
+      "month": "december",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/december-2017-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_1231.2017.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_1231.2017.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2017/Q4/bf_f_1231.2017.xlsx"
+        },
+        {
+          "filename": "bf_f2_1231.2017.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2_1231.2017.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2017/Q4/bf_f2_1231.2017.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_1231.2017.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.1_1231.2017.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2017/Q4/bf_f2.1_1231.2017.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_1231.2017.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.3_1231.2017.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2017/Q4/bf_f2.3_1231.2017.xlsx"
+        },
+        {
+          "filename": "bf_f5a_1231.2017.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f5a_1231.2017.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2017/Q4/bf_f5a_1231.2017.xlsx"
+        }
+      ]
+    },
+    "2018_Q1": {
+      "release_id": "2018_Q1",
+      "year": 2018,
+      "quarter": "Q1",
+      "month": "march",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/march-2018-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0331.2018.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_0331.2018.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2018/Q1/bf_f_0331.2018.xlsx"
+        },
+        {
+          "filename": "bf_f2_0331.2018.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2_0331.2018.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2018/Q1/bf_f2_0331.2018.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0331.2018.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.1_0331.2018.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2018/Q1/bf_f2.1_0331.2018.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0331.2018.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.3_0331.2018.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2018/Q1/bf_f2.3_0331.2018.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0331.2018.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f5a_0331.2018.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2018/Q1/bf_f5a_0331.2018.xlsx"
+        }
+      ]
+    },
+    "2018_Q2": {
+      "release_id": "2018_Q2",
+      "year": 2018,
+      "quarter": "Q2",
+      "month": "june",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/june-2018-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0630.2018_0.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f_0630.2018_0.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2018/Q2/bf_f_0630.2018_0.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0630.2018_0.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f2.3_0630.2018_0.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2018/Q2/bf_f2.3_0630.2018_0.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0630.2018_0.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f5a_0630.2018_0.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2018/Q2/bf_f5a_0630.2018_0.xlsx"
+        }
+      ]
+    },
+    "2018_Q3": {
+      "release_id": "2018_Q3",
+      "year": 2018,
+      "quarter": "Q3",
+      "month": "september",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/september-2018-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0930.2018.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_0930.2018.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2018/Q3/bf_f_0930.2018.xlsx"
+        },
+        {
+          "filename": "bf_f2_0930.2018.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2_0930.2018.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2018/Q3/bf_f2_0930.2018.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0930.2018.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.1_0930.2018.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2018/Q3/bf_f2.1_0930.2018.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0930.2018.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.3_0930.2018.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2018/Q3/bf_f2.3_0930.2018.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0930.2018.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f5a_0930.2018.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2018/Q3/bf_f5a_0930.2018.xlsx"
+        }
+      ]
+    },
+    "2018_Q4": {
+      "release_id": "2018_Q4",
+      "year": 2018,
+      "quarter": "Q4",
+      "month": "december",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/december-2018-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_1231.2018.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_1231.2018.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2018/Q4/bf_f_1231.2018.xlsx"
+        },
+        {
+          "filename": "bf_f2_1231.2018.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2_1231.2018.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2018/Q4/bf_f2_1231.2018.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_1231.2018.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.1_1231.2018.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2018/Q4/bf_f2.1_1231.2018.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_1231.2018.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.3_1231.2018.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2018/Q4/bf_f2.3_1231.2018.xlsx"
+        },
+        {
+          "filename": "bf_f5a_1231.2018.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f5a_1231.2018.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2018/Q4/bf_f5a_1231.2018.xlsx"
+        }
+      ]
+    },
+    "2019_Q1": {
+      "release_id": "2019_Q1",
+      "year": 2019,
+      "quarter": "Q1",
+      "month": "march",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/march-2019-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0331.2019.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_0331.2019.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2019/Q1/bf_f_0331.2019.xlsx"
+        },
+        {
+          "filename": "bf_f2_0331.2019.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f2_0331.2019.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2019/Q1/bf_f2_0331.2019.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0331.2019.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f2.1_0331.2019.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2019/Q1/bf_f2.1_0331.2019.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0331.2019.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f2.3_0331.2019.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2019/Q1/bf_f2.3_0331.2019.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0331.2019.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f5a_0331.2019.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2019/Q1/bf_f5a_0331.2019.xlsx"
+        }
+      ]
+    },
+    "2019_Q2": {
+      "release_id": "2019_Q2",
+      "year": 2019,
+      "quarter": "Q2",
+      "month": "june",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/june-2019-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0630.2019.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_0630.2019.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2019/Q2/bf_f_0630.2019.xlsx"
+        },
+        {
+          "filename": "bf_f2_0630.2019.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f2_0630.2019.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2019/Q2/bf_f2_0630.2019.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0630.2019.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f2.1_0630.2019.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2019/Q2/bf_f2.1_0630.2019.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0630.2019.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f2.3_0630.2019.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2019/Q2/bf_f2.3_0630.2019.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0630.2019.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f5a_0630.2019.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2019/Q2/bf_f5a_0630.2019.xlsx"
+        }
+      ]
+    },
+    "2019_Q3": {
+      "release_id": "2019_Q3",
+      "year": 2019,
+      "quarter": "Q3",
+      "month": "september",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/september-2019-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0930.2019.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_0930.2019.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2019/Q3/bf_f_0930.2019.xlsx"
+        },
+        {
+          "filename": "bf_f2_0930.2019.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f2_0930.2019.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2019/Q3/bf_f2_0930.2019.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0930.2019.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f2.1_0930.2019.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2019/Q3/bf_f2.1_0930.2019.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0930.2019.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f2.3_0930.2019.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2019/Q3/bf_f2.3_0930.2019.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0930.2019.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f5a_0930.2019.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2019/Q3/bf_f5a_0930.2019.xlsx"
+        }
+      ]
+    },
+    "2019_Q4": {
+      "release_id": "2019_Q4",
+      "year": 2019,
+      "quarter": "Q4",
+      "month": "december",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/december-2019-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_1231.2019.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_1231.2019.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2019/Q4/bf_f_1231.2019.xlsx"
+        },
+        {
+          "filename": "bf_f2_1231.2019.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f2_1231.2019.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2019/Q4/bf_f2_1231.2019.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_1231.2019.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f2.1_1231.2019.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2019/Q4/bf_f2.1_1231.2019.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_1231.2019.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f2.3_1231.2019.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2019/Q4/bf_f2.3_1231.2019.xlsx"
+        },
+        {
+          "filename": "bf_f5a_1231.2019.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f5a_1231.2019.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2019/Q4/bf_f5a_1231.2019.xlsx"
+        }
+      ]
+    },
+    "2020_Q1": {
+      "release_id": "2020_Q1",
+      "year": 2020,
+      "quarter": "Q1",
+      "month": "march",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/march-2020-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0331.2020.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f_0331.2020.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2020/Q1/bf_f_0331.2020.xlsx"
+        },
+        {
+          "filename": "bf_f2_0331.2020.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f2_0331.2020.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2020/Q1/bf_f2_0331.2020.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0331.2020.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f2.1_0331.2020.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2020/Q1/bf_f2.1_0331.2020.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0331.2020.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f2.3_0331.2020.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2020/Q1/bf_f2.3_0331.2020.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0331.2020.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f5a_0331.2020.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2020/Q1/bf_f5a_0331.2020.xlsx"
+        }
+      ]
+    },
+    "2020_Q2": {
+      "release_id": "2020_Q2",
+      "year": 2020,
+      "quarter": "Q2",
+      "month": "june",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/june-2020-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0630.2020.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_0630.2020.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2020/Q2/bf_f_0630.2020.xlsx"
+        },
+        {
+          "filename": "bf_f2_0630.2020.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f2_0630.2020.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2020/Q2/bf_f2_0630.2020.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0630.2020.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f2.1_0630.2020.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2020/Q2/bf_f2.1_0630.2020.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0630.2020.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f2.3_0630.2020.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2020/Q2/bf_f2.3_0630.2020.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0630.2020.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f5a_0630.2020.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2020/Q2/bf_f5a_0630.2020.xlsx"
+        }
+      ]
+    },
+    "2020_Q3": {
+      "release_id": "2020_Q3",
+      "year": 2020,
+      "quarter": "Q3",
+      "month": "september",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/september-2020-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0930.2020.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_0930.2020.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2020/Q3/bf_f_0930.2020.xlsx"
+        },
+        {
+          "filename": "bf_f2_0930.2020.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f2_0930.2020.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2020/Q3/bf_f2_0930.2020.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0930.2020.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f2.1_0930.2020.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2020/Q3/bf_f2.1_0930.2020.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0930.2020.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f2.3_0930.2020.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2020/Q3/bf_f2.3_0930.2020.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0930.2020.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f5a_0930.2020.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2020/Q3/bf_f5a_0930.2020.xlsx"
+        }
+      ]
+    },
+    "2020_Q4": {
+      "release_id": "2020_Q4",
+      "year": 2020,
+      "quarter": "Q4",
+      "month": "december",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/december-2020-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_1231.2020.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_1231.2020.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2020/Q4/bf_f_1231.2020.xlsx"
+        },
+        {
+          "filename": "bf_f2_1231.2020.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f2_1231.2020.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2020/Q4/bf_f2_1231.2020.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_1231.2020.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f2.1_1231.2020.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2020/Q4/bf_f2.1_1231.2020.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_1231.2020.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f2.3_1231.2020.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2020/Q4/bf_f2.3_1231.2020.xlsx"
+        },
+        {
+          "filename": "bf_f5a_1231.2020.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/bf_f5a_1231.2020.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2020/Q4/bf_f5a_1231.2020.xlsx"
+        }
+      ]
+    },
+    "2021_Q1": {
+      "release_id": "2021_Q1",
+      "year": 2021,
+      "quarter": "Q1",
+      "month": "march",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/march-2021-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0331.2021.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_0331.2021.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2021/Q1/bf_f_0331.2021.xlsx"
+        },
+        {
+          "filename": "bf_f2_0331.2021.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2_0331.2021.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2021/Q1/bf_f2_0331.2021.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0331.2021.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.1_0331.2021.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2021/Q1/bf_f2.1_0331.2021.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0331.2021.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.3_0331.2021.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2021/Q1/bf_f2.3_0331.2021.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0331.2021.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f5a_0331.2021.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2021/Q1/bf_f5a_0331.2021.xlsx"
+        }
+      ]
+    },
+    "2021_Q2": {
+      "release_id": "2021_Q2",
+      "year": 2021,
+      "quarter": "Q2",
+      "month": "june",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/june-2021-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0630.2021.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_0630.2021.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2021/Q2/bf_f_0630.2021.xlsx"
+        },
+        {
+          "filename": "bf_f2_0630.2021.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2_0630.2021.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2021/Q2/bf_f2_0630.2021.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0630.2021.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.1_0630.2021.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2021/Q2/bf_f2.1_0630.2021.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0630.2021.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.3_0630.2021.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2021/Q2/bf_f2.3_0630.2021.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0630.2021.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f5a_0630.2021.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2021/Q2/bf_f5a_0630.2021.xlsx"
+        }
+      ]
+    },
+    "2021_Q3": {
+      "release_id": "2021_Q3",
+      "year": 2021,
+      "quarter": "Q3",
+      "month": "september",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/september-2021-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0930.2021.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_0930.2021.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2021/Q3/bf_f_0930.2021.xlsx"
+        },
+        {
+          "filename": "bf_f2_0930.2021.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2_0930.2021.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2021/Q3/bf_f2_0930.2021.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0930.2021.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.1_0930.2021.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2021/Q3/bf_f2.1_0930.2021.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0930.2021.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.3_0930.2021.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2021/Q3/bf_f2.3_0930.2021.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0930.2021.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f5a_0930.2021.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2021/Q3/bf_f5a_0930.2021.xlsx"
+        }
+      ]
+    },
+    "2021_Q4": {
+      "release_id": "2021_Q4",
+      "year": 2021,
+      "quarter": "Q4",
+      "month": "december",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/december-2021-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_1231.2021.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_1231.2021.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2021/Q4/bf_f_1231.2021.xlsx"
+        },
+        {
+          "filename": "bf_f2_1231.2021.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2_1231.2021.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2021/Q4/bf_f2_1231.2021.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_1231.2021.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.1_1231.2021.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2021/Q4/bf_f2.1_1231.2021.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_1231.2021.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.3_1231.2021.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2021/Q4/bf_f2.3_1231.2021.xlsx"
+        },
+        {
+          "filename": "bf_f5a_1231.2021.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f5a_1231.2021.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2021/Q4/bf_f5a_1231.2021.xlsx"
+        }
+      ]
+    },
+    "2022_Q1": {
+      "release_id": "2022_Q1",
+      "year": 2022,
+      "quarter": "Q1",
+      "month": "march",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/march-2022-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0331.2022.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_0331.2022.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2022/Q1/bf_f_0331.2022.xlsx"
+        },
+        {
+          "filename": "bf_f2_0331.2022.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2_0331.2022.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2022/Q1/bf_f2_0331.2022.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0331.2022.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.1_0331.2022.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2022/Q1/bf_f2.1_0331.2022.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0331.2022.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.3_0331.2022.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2022/Q1/bf_f2.3_0331.2022.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0331.2022.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f5a_0331.2022.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2022/Q1/bf_f5a_0331.2022.xlsx"
+        }
+      ]
+    },
+    "2022_Q2": {
+      "release_id": "2022_Q2",
+      "year": 2022,
+      "quarter": "Q2",
+      "month": "june",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/june-2022-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0630.2022.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_0630.2022.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2022/Q2/bf_f_0630.2022.xlsx"
+        },
+        {
+          "filename": "bf_f2_0630.2022.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2_0630.2022.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2022/Q2/bf_f2_0630.2022.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0630.2022.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.1_0630.2022.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2022/Q2/bf_f2.1_0630.2022.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0630.2022.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.3_0630.2022.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2022/Q2/bf_f2.3_0630.2022.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0630.2022.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f5a_0630.2022.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2022/Q2/bf_f5a_0630.2022.xlsx"
+        }
+      ]
+    },
+    "2022_Q3": {
+      "release_id": "2022_Q3",
+      "year": 2022,
+      "quarter": "Q3",
+      "month": "september",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/september-2022-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0930.2022.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_0930.2022.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2022/Q3/bf_f_0930.2022.xlsx"
+        },
+        {
+          "filename": "bf_f2_0930.2022.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2_0930.2022.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2022/Q3/bf_f2_0930.2022.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0930.2022.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.1_0930.2022.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2022/Q3/bf_f2.1_0930.2022.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0930.2022.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.3_0930.2022.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2022/Q3/bf_f2.3_0930.2022.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0930.2022.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f5a_0930.2022.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2022/Q3/bf_f5a_0930.2022.xlsx"
+        }
+      ]
+    },
+    "2022_Q4": {
+      "release_id": "2022_Q4",
+      "year": 2022,
+      "quarter": "Q4",
+      "month": "december",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/december-2022-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_1231.2022.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_1231.2022.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2022/Q4/bf_f_1231.2022.xlsx"
+        },
+        {
+          "filename": "bf_f2_1231.2022.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2_1231.2022.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2022/Q4/bf_f2_1231.2022.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_1231.2022.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.1_1231.2022.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2022/Q4/bf_f2.1_1231.2022.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_1231.2022.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.3_1231.2022.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2022/Q4/bf_f2.3_1231.2022.xlsx"
+        },
+        {
+          "filename": "bf_f5a_1231.2022.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f5a_1231.2022.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2022/Q4/bf_f5a_1231.2022.xlsx"
+        }
+      ]
+    },
+    "2023_Q1": {
+      "release_id": "2023_Q1",
+      "year": 2023,
+      "quarter": "Q1",
+      "month": "march",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/march-2023-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0331.2023.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_0331.2023.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2023/Q1/bf_f_0331.2023.xlsx"
+        },
+        {
+          "filename": "bf_f2_0331.2023.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2_0331.2023.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2023/Q1/bf_f2_0331.2023.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0331.2023.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.1_0331.2023.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2023/Q1/bf_f2.1_0331.2023.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0331.2023.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/document/bf_f2.3_0331.2023.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2023/Q1/bf_f2.3_0331.2023.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0331.2023.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f5a_0331.2023.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2023/Q1/bf_f5a_0331.2023.xlsx"
+        }
+      ]
+    },
+    "2023_Q2": {
+      "release_id": "2023_Q2",
+      "year": 2023,
+      "quarter": "Q2",
+      "month": "june",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/june-2023-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0630.2023.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_0630.2023.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2023/Q2/bf_f_0630.2023.xlsx"
+        },
+        {
+          "filename": "bf_f2_0630.2023.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2_0630.2023.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2023/Q2/bf_f2_0630.2023.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0630.2023.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.3_0630.2023.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2023/Q2/bf_f2.3_0630.2023.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0630.2023.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f5a_0630.2023.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2023/Q2/bf_f5a_0630.2023.xlsx"
+        }
+      ]
+    },
+    "2023_Q3": {
+      "release_id": "2023_Q3",
+      "year": 2023,
+      "quarter": "Q3",
+      "month": "september",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/september-2023-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0930.2023.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_0930.2023.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2023/Q3/bf_f_0930.2023.xlsx"
+        },
+        {
+          "filename": "bf_f2_0930.2023.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2_0930.2023.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2023/Q3/bf_f2_0930.2023.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0930.2023.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.1_0930.2023.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2023/Q3/bf_f2.1_0930.2023.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0930.2023.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.3_0930.2023.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2023/Q3/bf_f2.3_0930.2023.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0930.2023.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f5a_0930.2023.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2023/Q3/bf_f5a_0930.2023.xlsx"
+        }
+      ]
+    },
+    "2023_Q4": {
+      "release_id": "2023_Q4",
+      "year": 2023,
+      "quarter": "Q4",
+      "month": "december",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/december-2023-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_1231.2023.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f_1231.2023.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2023/Q4/bf_f_1231.2023.xlsx"
+        },
+        {
+          "filename": "bf_f2_1231.2023.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2_1231.2023.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2023/Q4/bf_f2_1231.2023.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_1231.2023.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.1_1231.2023.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2023/Q4/bf_f2.1_1231.2023.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_1231.2023.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f2.3_1231.2023.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2023/Q4/bf_f2.3_1231.2023.xlsx"
+        },
+        {
+          "filename": "bf_f5a_1231.2023.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/data_tables/bf_f5a_1231.2023.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2023/Q4/bf_f5a_1231.2023.xlsx"
+        }
+      ]
+    },
+    "2025_Q1": {
+      "release_id": "2025_Q1",
+      "year": 2025,
+      "quarter": "Q1",
+      "month": "march",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/march-2025-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0331.2025.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/document/bf_f_0331.2025.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2025/Q1/bf_f_0331.2025.xlsx"
+        },
+        {
+          "filename": "bf_f2_0331.2025.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/document/bf_f2_0331.2025.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2025/Q1/bf_f2_0331.2025.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0331.2025.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/document/bf_f2.1_0331.2025.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2025/Q1/bf_f2.1_0331.2025.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0331.2025.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/document/bf_f2.3_0331.2025.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2025/Q1/bf_f2.3_0331.2025.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0331.2025.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/document/bf_f5a_0331.2025.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2025/Q1/bf_f5a_0331.2025.xlsx"
+        }
+      ]
+    },
+    "2025_Q2": {
+      "release_id": "2025_Q2",
+      "year": 2025,
+      "quarter": "Q2",
+      "month": "june",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/june-2025-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0630.2025.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/document/bf_f_0630.2025.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2025/Q2/bf_f_0630.2025.xlsx"
+        },
+        {
+          "filename": "bf_f2_0630.2025.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/document/bf_f2_0630.2025.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2025/Q2/bf_f2_0630.2025.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0630.2025.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/document/bf_f2.1_0630.2025.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2025/Q2/bf_f2.1_0630.2025.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0630.2025.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/document/bf_f2.3_0630.2025.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2025/Q2/bf_f2.3_0630.2025.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0630.2025.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/document/bf_f5a_0630.2025.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2025/Q2/bf_f5a_0630.2025.xlsx"
+        }
+      ]
+    },
+    "2025_Q3": {
+      "release_id": "2025_Q3",
+      "year": 2025,
+      "quarter": "Q3",
+      "month": "september",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/september-2025-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0930.2025.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/document/bf_f_0930.2025.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2025/Q3/bf_f_0930.2025.xlsx"
+        },
+        {
+          "filename": "bf_f2_0930.2025.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/document/bf_f2_0930.2025.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2025/Q3/bf_f2_0930.2025.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0930.2025.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/document/bf_f2.1_0930.2025.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2025/Q3/bf_f2.1_0930.2025.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0930.2025.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/document/bf_f2.3_0930.2025.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2025/Q3/bf_f2.3_0930.2025.xlsx"
+        },
+        {
+          "filename": "bf_f5a_0930.2025.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/document/bf_f5a_0930.2025.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2025/Q3/bf_f5a_0930.2025.xlsx"
+        }
+      ]
+    },
+    "2025_Q4": {
+      "release_id": "2025_Q4",
+      "year": 2025,
+      "quarter": "Q4",
+      "month": "december",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/december-2025-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_1231.2025.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/document/bf_f_1231.2025.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2025/Q4/bf_f_1231.2025.xlsx"
+        },
+        {
+          "filename": "bf_f2_1231.2025.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/document/bf_f2_1231.2025.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2025/Q4/bf_f2_1231.2025.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_1231.2025.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/document/bf_f2.1_1231.2025.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2025/Q4/bf_f2.1_1231.2025.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_1231.2025.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/document/bf_f2.3_1231.2025.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2025/Q4/bf_f2.3_1231.2025.xlsx"
+        },
+        {
+          "filename": "bf_f5a_1231.2025.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/document/bf_f5a_1231.2025.xlsx",
+          "label": "Table F-5A \u2014 Filings by Chapter, District, and County",
+          "local_path": "raw/2025/Q4/bf_f5a_1231.2025.xlsx"
+        }
+      ]
+    },
+    "2026_Q1": {
+      "release_id": "2026_Q1",
+      "year": 2026,
+      "quarter": "Q1",
+      "month": "march",
+      "release_url": "https://www.uscourts.gov/data-news/reports/statistical-reports/bankruptcy-filing-statistics/march-2026-quarterly-bankruptcy-filings",
+      "files": [
+        {
+          "filename": "bf_f_0331.2026.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/document/bf_f_0331.2026.xlsx",
+          "label": "Table F \u2014 Cases Filed, Terminated, and Pending (12-month)",
+          "local_path": "raw/2026/Q1/bf_f_0331.2026.xlsx"
+        },
+        {
+          "filename": "bf_f2_0331.2026.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/document/bf_f2_0331.2026.xlsx",
+          "label": "Table F-2 \u2014 Business/Nonbusiness by Chapter (12-month)",
+          "local_path": "raw/2026/Q1/bf_f2_0331.2026.xlsx"
+        },
+        {
+          "filename": "bf_f2.1_0331.2026.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/document/bf_f2.1_0331.2026.xlsx",
+          "label": "Table F-2.1 \u2014 Business/Nonbusiness by Chapter (1-month)",
+          "local_path": "raw/2026/Q1/bf_f2.1_0331.2026.xlsx"
+        },
+        {
+          "filename": "bf_f2.3_0331.2026.xlsx",
+          "url": "https://www.uscourts.gov/sites/default/files/document/bf_f2.3_0331.2026.xlsx",
+          "label": "Table F-2.3 \u2014 Business/Nonbusiness by Chapter (3-month)",
+          "local_path": "raw/2026/Q1/bf_f2.3_0331.2026.xlsx"
+        }
+      ]
+    }
+  }
+}
