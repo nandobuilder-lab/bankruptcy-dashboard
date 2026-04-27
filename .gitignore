@@ -1,0 +1,13 @@
+.evidence/template
+.svelte-kit
+build
+node_modules
+.DS_Store
+# static/data is intentionally included — parquet files are the compiled query output
+# Exclude all DuckDB files except the bankruptcy source used by Vercel build
+*.duckdb
+!sources/bankruptcy/bankruptcy.duckdb
+*.options.yaml
+.vscode/settings.json
+.env
+.evidence/meta

@@ -1,0 +1,4 @@
+name: bankruptcy
+type: duckdb
+options:
+  filename: bankruptcy.duckdb
