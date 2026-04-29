@@ -1,4 +1,12 @@
-# Evidence Template Project
+# Project Description
+
+This repo implements the US Bankruptcy dashboard I vibe-coded with Claude Code. I worked with Claude Code to data engineer bankruptcy data from US Courts as there is no public data series available today in tools such as FRED. It covers information from the early 2000s about US bankruptcy in a dashboard form and a presentation (links eblow). As part of this process, I vibe coded a scraper to consistently extract data from US courts, a ETL pipepline to maintain a database, and an integration with FRED to compare with other macro economic series. For now, this repo holds only the final database and dashboard piece, but I will upload the other pieces later.
+
+## Important Links
+- [Dashboard](https://bankruptcy-dashboard.vercel.app/)
+- [Presentation](https://bankruptcy-dashboard.vercel.app/presentation.html#/)
+  
+## Evidence Template Project
 
 ## Using Codespaces
 
